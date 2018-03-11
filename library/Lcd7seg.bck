@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC07-00048A
+D Clock 7 segment 3 half with colon. Comon anode.
+$ENDCMP
+#
+$CMP KL-4031-BSR
+D Three 7 segment display common anode
+$ENDCMP
+#
+#End Doc Library
